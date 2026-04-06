@@ -1,40 +1,48 @@
-# Personal Portfolio Website
+# Hi there, I'm [Your Name] 👋
 
-This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
+### 🎓 Computer Science Graduate | Aspiring Data Scientist
 
-## Description
+I am a dedicated **Computer Science professional** (BSCS Class of 2025) with a solid academic foundation (CGPA: 3.15/4.0). My passion lies in extracting meaning from data and building efficient software solutions. Currently, I am preparing to transition into a Master’s program specializing in **Data Science / Project Management**.
 
-The personal portfolio website showcases my skills, projects, and experiences as a web developer. It serves as an online platform to highlight my work and provide information about my background and expertise.
+---
 
-## Features
+### 🚀 Technical Expertise
 
-- Home: Introduces myself and provides a brief overview of my skills and interests.
-- About: Details my professional background, education, and relevant experience.
-- Projects: Showcases the projects I have worked on, including descriptions, screenshots, and links to live demos or repositories.
-- Skills: Lists the programming languages, frameworks, and tools I am proficient in.
-- Contact: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
+- **Languages:** Python (Data Analysis), SQL, C++, Java
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Core CS:** Data Structures & Algorithms, Database Management, Software Engineering
+- **Management:** Project Life Cycle, Agile Methodologies
 
-## Technologies Used
+---
 
-- HTML: Markup language used for structuring the website.
-- CSS: Stylesheet language used for designing and formatting the website.
-- JavaScript: Programming language used for adding interactivity and dynamic features.
+### 📊 Academic Highlights
 
-## Getting Started
+- **BS in Computer Science** | 2021 – 2025
+- **Intermediate (ICS)** | 2019 – 2021
+- **Focus Areas:** Machine Learning, Big Data, and Technical Management.
 
-To view the website locally or make modifications, follow these steps:
+---
 
-1. Clone the repository: `git clone [repository URL]`
-2. Open the project folder in your preferred code editor.
-3. Open the `index.html` file in a web browser to view the website.
+### 🔭 Current Focus & Goals
 
-## Contributing
+- 🔭 **Currently working on:** Refining my portfolio with Data Analysis projects.
+- 🌱 **Learning:** Advanced SQL and Cloud Computing.
+- 🎯 **Goal:** Pursuing an MS in Data Science/Data Analytics for the May 2026 intake.
+- ⚡ **Fun Fact:** I enjoy technical estimation and project cost-analysis (making sure every "door" fits the budget!).
 
-I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website. If you would like to contribute, please follow the guidelines in the `CONTRIBUTING.md` file.
+---
 
-## Contact
+### 🛠️ My GitHub Stats
 
-If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainalicheema&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainalicheema&layout=compact&theme=radical)
 
-Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
+---
 
+### 📬 Connect with Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/zainalicheema9
+
+- 📍 **Target Locations:** Europe | UK 
+
+---
